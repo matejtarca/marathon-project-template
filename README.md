@@ -4,7 +4,7 @@
 
 ## Team
 
-*Your name here!*
+*Lorem ipsum*
 
 ### Team members
 
